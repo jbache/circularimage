@@ -1,0 +1,21 @@
+{
+  "name": "com.cutehacks.circularimage",
+  "description": "",
+  "author": {
+    "name": "Jens Bache-Wiig",
+    "email": "jens@cutehacks.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:jbache/circularimage.git"
+  },
+  "version": {
+    "label": "1.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "com_cutehacks_circularimage.pri"
+}
