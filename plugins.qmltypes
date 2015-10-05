@@ -8,4 +8,9 @@ import QtQuick.tooling 1.2
 
 Module {
     dependencies: ["QtGraphicalEffects 1.0", "QtQuick 2.3"]
+    Component {
+           name: "CircularImage"
+           defaultProperty: "data"
+           prototype: "QQuickImage"
+       }
 }
