@@ -1,6 +1,6 @@
-
 <RCC>
-    <qresource prefix="com/cutehacks/circularimage">
+    <qresource prefix="/com/cutehacks/circularimage">
         <file>qmldir</file>
+        <file>CircularImage.qml</file>
     </qresource>
 </RCC>
