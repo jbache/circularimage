@@ -1,6 +1,6 @@
 {
   "name": "com.cutehacks.circularimage",
-  "description": "",
+  "description": "A masked circular Image element",
   "author": {
     "name": "Jens Bache-Wiig",
     "email": "jens@cutehacks.com"
@@ -10,7 +10,7 @@
     "url": "git@github.com:jbache/circularimage.git"
   },
   "version": {
-    "label": "1.0.5",
+    "label": "1.0.6",
     "revision": "",
     "fingerprint": ""
   },
